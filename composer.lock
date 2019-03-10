@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8ec40c6b057120fafff2687afe9a67b5",
+    "content-hash": "06f5b3f44d83e0332a6b34914e07542b",
     "packages": [
         {
             "name": "composer/ca-bundle",
@@ -818,16 +818,16 @@
         },
         {
             "name": "laravel-zero/framework",
-            "version": "5.8.x-dev",
+            "version": "dev-stable",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel-zero/framework.git",
-                "reference": "2a58cd5a2604bb37abd89cb6eb5feb72778dd8e0"
+                "reference": "6aa0947a02347f1ec1d55a74ab6045c4641c8bb2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel-zero/framework/zipball/2a58cd5a2604bb37abd89cb6eb5feb72778dd8e0",
-                "reference": "2a58cd5a2604bb37abd89cb6eb5feb72778dd8e0",
+                "url": "https://api.github.com/repos/laravel-zero/framework/zipball/6aa0947a02347f1ec1d55a74ab6045c4641c8bb2",
+                "reference": "6aa0947a02347f1ec1d55a74ab6045c4641c8bb2",
                 "shasum": ""
             },
             "require": {
@@ -892,7 +892,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2019-03-10T17:02:27+00:00"
+            "time": "2019-03-10T17:36:20+00:00"
         },
         {
             "name": "league/flysystem",
