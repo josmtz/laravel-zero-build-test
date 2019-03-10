@@ -50,5 +50,5 @@
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "bin": ["test"]
+    "bin": ["movie-cli"]
 }
